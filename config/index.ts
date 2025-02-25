@@ -1,0 +1,1 @@
+export const MONGO_URI = 'mongodb+srv://shivani08das:always09@clusterfoodapp.dipzv.mongodb.net/?retryWrites=true&w=majority&appName=ClusterFoodApp'
