@@ -16,7 +16,7 @@ SmartBite is a **microservices-based** food ordering system built with **Node.js
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/yourusername/SmartBite.git
+git clone https://github.com/shivani091995/SmartBite.git
 cd SmartBite
 npm install
 npm run dev
