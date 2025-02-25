@@ -6,10 +6,10 @@ SmartBite is a **microservices-based** food ordering system built with **Node.js
 - **Microservices Architecture** – Modular and scalable design.
 - **AI Recommendations** – Personalized meal suggestions.
 - **Secure Payments** – Integrated with **Stripe**.
-- **Real-Time Order Tracking** – Live status updates.
+
 
 ## 🛠 Tech Stack
-- **Backend:** Node.js, TypeScript, Express, Prisma, PostgreSQL
+- **Backend:** Node.js, TypeScript, Express, MongoDB
 - **Frontend:** React (Planned)
 - **Payments:** Stripe
 - **AI:** Machine Learning-based meal suggestions (Planned)
